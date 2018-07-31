@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello and welcome here !
 
-Things you may want to cover:
+!!!CAUTION!!!
 
-* Ruby version
+Before starting : into the terminal, make a clone of this repository, then cd into the "i_love_forms" directory and make a "bundle install --without production" ; 
 
-* System dependencies
+then everything will be ok :)
 
-* Configuration
 
-* Database creation
+Link to my Heroku website : "https://i-love-forms-31.herokuapp.com/"
 
-* Database initialization
 
-* How to run the test suite
+* Ruby version : 2.5.1
 
-* Services (job queues, cache servers, search engines, etc.)
+* Rails version : 5.2.0
 
-* Deployment instructions
-
-* ...
+ENJOY dudes !!!

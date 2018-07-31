@@ -1,2 +1,6 @@
-<h1>Users#new</h1>
-<p>Find me in app/views/users/new.html.erb</p>
+<input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+
+<form action="url_de_l'action" method="POST">
+  <input type="text" name="nom_du_champ">
+  <input type="submit" value="Envoyer le formulaire">
+</form>
